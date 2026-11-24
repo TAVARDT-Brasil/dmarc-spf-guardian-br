@@ -5,7 +5,7 @@
 
 Auditoria de registros DNS de correio para prevenção de spoofing, phishing e conformidade técnica com as diretrizes da ANPD e LGPD.
 
-Desenvolvido e mantido pela divisao de seguranca de infraestrutura da **TAVARDT Brasil**.
+Desenvolvido e mantido pela divisao de seguranca de infraestrutura da **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python guardian.py empresa.com.br -selector mail -json
 Para auditorias automatizadas e acompanhamento continuo, utilize a plataforma oficial:
 
 * **Verificador DMARC e Autenticacao de E-mail**
-* **[Portal Corporativo TAVARDT Brasil](https://ag.tavardt.com/br/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/br/)**
 
 ***
 
 ## Suporte e Consultoria Especializada
 
-Para projetos corporativos de ciberseguranca, infraestrutura e conformidade técnica no Brasil, consulte os especialistas da **TAVARDT Brasil**.
+Para projetos corporativos de ciberseguranca, infraestrutura e conformidade técnica no Brasil, consulte os especialistas da **TAVARDT**.
 
 ***
 
