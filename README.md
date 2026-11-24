@@ -1,4 +1,4 @@
-# Guardião DMARC, SPF e DKIM | TAVARDT Brasil
+# Guardião DMARC, SPF e DKIM
 
 [![Auditoria Tecnica](https://img.shields.io/badge/TAVARDT-Seguranca%20Email-5b3cf5.svg)](https://tools.tavardt.com/br/verificador-dmarc-email/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ Para auditorias automatizadas e acompanhamento continuo, utilize a plataforma of
 ## Suporte e Consultoria Especializada
 
 Para projetos corporativos de ciberseguranca, infraestrutura e conformidade técnica no Brasil, consulte os especialistas da **TAVARDT Brasil**.
+
+***
+
+© 2026 TAVARDT. Todos os direitos reservados.
