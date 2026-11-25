@@ -1,8 +1,8 @@
 # Guardião DMARC, SPF e DKIM
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Auditoria Tecnica](https://img.shields.io/badge/TAVARDT-Seguranca%20Email-5b3cf5.svg)](https://tools.tavardt.com/br/verificador-dmarc-email/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Auditoria de registros DNS de correio para prevenção de spoofing, phishing e conformidade técnica com as diretrizes da ANPD e LGPD.
 
