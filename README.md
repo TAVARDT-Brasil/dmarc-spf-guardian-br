@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ag.tavardt.com/br/">
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
+  </a>
+</p>
+
 # Guardião DMARC, SPF e DKIM
 
 [![Auditoria Tecnica](https://img.shields.io/badge/TAVARDT-Seguranca%20Email-5b3cf5.svg)](https://tools.tavardt.com/br/verificador-dmarc-email/)
